@@ -1,4 +1,4 @@
-Data visualisation of the field goal data collected by DomSamangy https://www.linkedin.com/in/dominicsamangy/
+Data visualisation of the field goal data collected by @DomSamangy https://www.linkedin.com/in/dominicsamangy/
 The Information about the data can be found on DomSamangy's page.
 This was a project created for a university creative data art exhibition.
 
